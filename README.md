@@ -1,4 +1,4 @@
-# computational-sound
+# Computational Sound Final Project: Live Coding with Samples from Various Media
 
 [Video Link](https://youtu.be/E8ASgE1CrDc)
 
